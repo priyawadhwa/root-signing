@@ -3,7 +3,7 @@ module github.com/sigstore/root-signing
 go 1.17
 
 require (
-	github.com/peterbourgon/ff/v3 v3.1.2
+	github.com/peterbourgon/ff/v3 v3.3.0
 	github.com/pkg/errors v0.9.1
 	github.com/sigstore/cosign v1.8.0
 	github.com/sigstore/sigstore v1.2.1-0.20220424143412-3d41663116d5
@@ -39,7 +39,7 @@ require (
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
-	github.com/pelletier/go-toml v1.9.4 // indirect
+	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.0-beta.8 // indirect
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/secure-systems-lab/go-securesystemslib v0.3.1 // indirect
